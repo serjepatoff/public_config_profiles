@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.TimeMachine</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>DoNotOfferNewDisksForBackup</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>Amsys.757157be-a77f-477d-be24-da7ff63b3537.alacarte.customsettings.bb730967-7e41-45c7-9f4a-0eccdd585125</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>bb730967-7e41-45c7-9f4a-0eccdd585125</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.apple.TimeMachine
+</string>
+	<key>PayloadDisplayName</key>
+	<string>Do not offer new Time Machine disks for backup</string>
+	<key>PayloadIdentifier</key>
+	<string>DoNotOfferNewDisksForBackup</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>757157be-a77f-477d-be24-da7ff63b3537</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
