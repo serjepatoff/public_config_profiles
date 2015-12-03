@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.HIToolbox</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AppleCurrentKeyboardLayoutInputSourceID</key>
+								<string>com.apple.keylayout.British</string>
+								<key>AppleDateResID</key>
+								<dict>
+									<key>smRoman</key>
+									<integer>2</integer>
+								</dict>
+								<key>AppleDefaultAsciiInputSource</key>
+								<dict>
+									<key>InputSourceKind</key>
+									<string>Keyboard Layout</string>
+									<key>KeyboardLayout ID</key>
+									<integer>2</integer>
+									<key>KeyboardLayout Name</key>
+									<string>British</string>
+								</dict>
+								<key>AppleEnabledInputSources</key>
+								<array>
+									<dict>
+										<key>InputSourceKind</key>
+										<string>Keyboard Layout</string>
+										<key>KeyboardLayout ID</key>
+										<integer>2</integer>
+										<key>KeyboardLayout Name</key>
+										<string>British</string>
+									</dict>
+									<dict>
+										<key>InputSourceKind</key>
+										<string>Keyboard Layout</string>
+										<key>KeyboardLayout ID</key>
+										<integer>87</integer>
+										<key>KeyboardLayout Name</key>
+										<string>Spanish - ISO</string>
+									</dict>
+								</array>
+								<key>AppleInputSourceHistory</key>
+								<array>
+									<dict>
+										<key>InputSourceKind</key>
+										<string>Keyboard Layout</string>
+										<key>KeyboardLayout ID</key>
+										<integer>2</integer>
+										<key>KeyboardLayout Name</key>
+										<string>British</string>
+									</dict>
+								</array>
+								<key>AppleNumberResID</key>
+								<dict>
+									<key>smRoman</key>
+									<integer>2</integer>
+								</dict>
+								<key>AppleSelectedInputSources</key>
+								<array>
+									<dict>
+										<key>InputSourceKind</key>
+										<string>Keyboard Layout</string>
+										<key>KeyboardLayout ID</key>
+										<integer>2</integer>
+										<key>KeyboardLayout Name</key>
+										<string>British</string>
+									</dict>
+								</array>
+								<key>AppleTimeResID</key>
+								<dict>
+									<key>smRoman</key>
+									<integer>2</integer>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Custom</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>Amsys.dcf942e7-a270-4a42-9d8a-775a3dd608d4.alacarte.customsettings.b0c937b6-a1f3-4361-80a8-1968dd857184</string>
+			<key>PayloadOrganization</key>
+			<string>Amsys</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>b0c937b6-a1f3-4361-80a8-1968dd857184</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>.GlobalPreferences</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AppleLanguages</key>
+								<array>
+									<string>English</string>
+								</array>
+								<key>AppleLocale</key>
+								<string>en_GB</string>
+								<key>Country</key>
+								<string>GB</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Custom</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>Amsys.dcf942e7-a270-4a42-9d8a-775a3dd608d4.alacarte.customsettings.edd87392-afc4-4421-b5c1-b0362503136f</string>
+			<key>PayloadOrganization</key>
+			<string>Amsys</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>edd87392-afc4-4421-b5c1-b0362503136f</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Installs UK and Spanish Keyboard</string>
+	<key>PayloadDisplayName</key>
+	<string>Localise to UK and add Spanish - ISO</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>221EA86F-E920-441F-B8A2-F89383DFD3DF</string>
+	<key>PayloadOrganization</key>
+	<string>Amsys</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>221EA86F-E920-441F-B8A2-F89383DFD3DF</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
