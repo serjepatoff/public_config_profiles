@@ -12,6 +12,8 @@
 					<key>Set-Once</key>
 					<array>
 						<dict>
+							<key>mcx_data_timestamp</key>
+                    		<date>2015-11-29T18:16:05Z</date>
 							<key>mcx_preference_settings</key>
 							<dict>
 								<key>AppleCurrentKeyboardLayoutInputSourceID</key>
@@ -111,6 +113,8 @@
 					<key>Set-Once</key>
 					<array>
 						<dict>
+							<key>mcx_data_timestamp</key>
+                    		<date>2015-11-29T18:16:05Z</date>
 							<key>mcx_preference_settings</key>
 							<dict>
 								<key>AppleLanguages</key>
