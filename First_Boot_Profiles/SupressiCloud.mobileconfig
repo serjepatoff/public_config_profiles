@@ -27,11 +27,11 @@
 								<key>LastPreLoginTasksPerformedBuild</key>
 								<string>15B42</string>
 								<key>LastPreLoginTasksPerformedVersion</key>
-								<string>10.11.1</string>
+								<string>10.11.2</string>
 								<key>LastSeenBuddyBuildVersion</key>
-								<string>15B42</string>
+								<string>15C50</string>
 								<key>LastSeenCloudProductVersion</key>
-								<string>10.11.1</string>
+								<string>10.11.2</string>
 								<key>RunNonInteractive</key>
 								<true/>
 								<key>ShowKeychainSyncBuddyAtLogin</key>
