@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.avid.sibelius75</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_data_timestamp</key>
+							<date>2015-12-16T12:50:44Z</date>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>Preferences</key>
+								<dict>
+									<key>Preferences</key>
+									<dict>
+										<key>DoUpdateCheck</key>
+										<dict>
+											<key>Data</key>
+											<string>False</string>
+										</dict>
+										<key>StartupSound</key>
+										<dict>
+											<key>Data</key>
+											<string>False</string>
+										</dict>
+										<key>TimeOfLastUpdateCheck</key>
+										<dict>
+											<key>Data</key>
+											<string>0</string>
+										</dict>
+									</dict>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.f8d68e50-e15f-4075-8b24-1a220a2e1621.alacarte.customsettings.6fa464a1-6eba-4c58-be29-d01124394168</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>6fa464a1-6eba-4c58-be29-d01124394168</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.avid.sibelius75
+
+Git revision: a14a19d7f0</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.avid.sibelius75</string>
+	<key>PayloadIdentifier</key>
+	<string>Sibelius 7.5 - Suppress first run and startup sound</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>f8d68e50-e15f-4075-8b24-1a220a2e1621</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
