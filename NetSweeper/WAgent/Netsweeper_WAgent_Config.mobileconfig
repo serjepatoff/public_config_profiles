@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.netsweeper.WAgent-Configurator</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>com.netsweeper.wagent.LogWAgentOutputCheckbox</key>
+								<true/>
+								<key>com.netsweeper.wagent.WebadminIP</key>
+								<string>[ADDRESS OF NETSWEEPER]</string>
+								<key>com.netsweeper.wagent.WebadminIPport</key>
+								<integer>[PORT OF NETSWEEPER]</integer>
+								<key>com.netsweeper.wagent.WhatsMyIP</key>
+								<string>[ADDRESS OF NETSWEEPER]</string>
+								<key>com.netsweeper.wagent.WhatsMyIPCheckbox</key>
+								<string>1</string>
+								<key>com.netsweeper.wagent.WhatsMyIPport</key>
+								<string>[PORT OF NETSWEEPER]</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Custom</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.e68809c1-de0e-4443-a345-4ab3cb1bd2b0.alacarte.customsettings.c6e526f4-20e2-43ab-a72b-3477f5ebc787</string>
+			<key>PayloadOrganization</key>
+			<string>Amsys</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>c6e526f4-20e2-43ab-a72b-3477f5ebc787</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string></string>
+	<key>PayloadDisplayName</key>
+	<string>Netsweeper WAgent settings</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>E65B457A-4B28-4981-B91A-74610C6CC429</string>
+	<key>PayloadOrganization</key>
+	<string>Amsys</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>E65B457A-4B28-4981-B91A-74610C6CC429</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
