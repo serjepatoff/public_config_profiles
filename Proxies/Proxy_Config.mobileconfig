@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Proxies</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.amsys-DW-PM-VM.local.813150b0-b853-0133-d03d-000c29e1b584.alacarte.proxies.812be350-b853-0133-d03c-000c29e1b584</string>
+			<key>PayloadType</key>
+			<string>com.apple.SystemConfiguration</string>
+			<key>PayloadUUID</key>
+			<string>812be350-b853-0133-d03c-000c29e1b584</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Proxies</key>
+			<dict>
+				<key>Exceptions</key>
+				<array>
+					<string>*.local</string>
+					<string>169.254/16</string>
+					<string>[ADD FURTHER EXCEPTIONS HERE]</string>
+				</array>
+				<key>HTTPEnable</key>
+				<integer>1</integer>
+				<key>HTTPPort</key>
+				<integer>[ADD HTTP PROXY PORT HERE]</integer>
+				<key>HTTPProxy</key>
+				<string>[ADD HTTP PROXY SERVER ADDRESS HERE]</string>
+				<key>HTTPSEnable</key>
+				<integer>1</integer>
+				<key>HTTPSPort</key>
+				<integer>[ADD HTTPS PROXY PORT HERE]</integer>
+				<key>HTTPSProxy</key>
+				<string>[ADD HTTPS PROXY SERVER ADDRESS HERE]</string>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Proxy_Config</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mdm.amsys-DW-PM-VM.local.813150b0-b853-0133-d03d-000c29e1b584.alacarte</string>
+	<key>PayloadOrganization</key>
+	<string>Amsys</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>813150b0-b853-0133-d03d-000c29e1b584</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
