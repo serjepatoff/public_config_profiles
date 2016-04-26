@@ -25,13 +25,13 @@
 								<key>LastCacheCleanupStillRunning</key>
 								<false/>
 								<key>LastPreLoginTasksPerformedBuild</key>
-								<string>15B42</string>
+								<string>15D21</string>
 								<key>LastPreLoginTasksPerformedVersion</key>
-								<string>10.11.2</string>
+								<string>10.11.4</string>
 								<key>LastSeenBuddyBuildVersion</key>
-								<string>15C50</string>
+								<string>15D21</string>
 								<key>LastSeenCloudProductVersion</key>
-								<string>10.11.2</string>
+								<string>10.11.4</string>
 								<key>RunNonInteractive</key>
 								<true/>
 								<key>ShowKeychainSyncBuddyAtLogin</key>
