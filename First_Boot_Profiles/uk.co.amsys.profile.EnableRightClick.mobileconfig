@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.driver.AppleHIDMouse</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_data_timestamp</key>
+							<date>2016-11-07T15:02:14Z</date>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>Button1</key>
+								<integer>1</integer>
+								<key>Button2</key>
+								<integer>2</integer>
+								<key>ButtonDominance</key>
+								<integer>2</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.83748bca-1be5-4a41-beac-5ad68e171204.alacarte.customsettings.34022a7b-7659-4fcc-98f2-ddf2ecc62baa</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>34022a7b-7659-4fcc-98f2-ddf2ecc62baa</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.driver.AppleBluetoothMultitouch.mouse</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_data_timestamp</key>
+							<date>2016-11-07T15:02:14Z</date>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>MouseButtonMode</key>
+								<string>TwoButton</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.83748bca-1be5-4a41-beac-5ad68e171204.alacarte.customsettings.f72075f8-fdac-4832-b748-fc78ce059b72</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>f72075f8-fdac-4832-b748-fc78ce059b72</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.driver.AppleBluetoothMultitouch.trackpad</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_data_timestamp</key>
+							<date>2016-11-07T15:02:14Z</date>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>TrackpadRightClick</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.83748bca-1be5-4a41-beac-5ad68e171204.alacarte.customsettings.18ac6104-ed4e-4088-b7fc-0cb646806a90</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>18ac6104-ed4e-4088-b7fc-0cb646806a90</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>This profile enables "Right Click" for all Apple devices.
+Included custom settings:
+com.apple.driver.AppleHIDMouse
+com.apple.driver.AppleBluetoothMultitouch.mouse
+com.apple.driver.AppleBluetoothMultitouch.trackpad
+</string>
+	<key>PayloadDisplayName</key>
+	<string>macOS - Enable "Right Click"</string>
+	<key>PayloadIdentifier</key>
+	<string>uk.co.amsys.profile.EnableRightClick</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>83748bca-1be5-4a41-beac-5ad68e171204</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
