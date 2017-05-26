@@ -24,8 +24,6 @@
 								<true/>
 								<key>DeviceAutoUpdateDisabled</key>
 								<true/>		
-								<key>SyncDisabled</key>
-								<true/>	
 								<key>ImportAutofillFormData</key>
 								<false/>
 								<key>ImportBookmarks</key>
