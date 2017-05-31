@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DestroyFVKeyOnStandby</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>MCX</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>E3113781-647C-4FEE-BC28-14161CD91501</string>
+			<key>PayloadOrganization</key>
+			<string>Amsys Ltd</string>
+			<key>PayloadType</key>
+			<string>com.apple.MCX</string>
+			<key>PayloadUUID</key>
+			<string>E3113781-647C-4FEE-BC28-14161CD91501</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>dontAllowFDEDisable</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Defer</key>
+			<true/>
+			<key>Enable</key>
+			<string>On</string>
+			<key>PayloadCertificateUUID</key>
+			<string></string>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>SecurityFileVault2</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>529BF039-86BE-4314-859C-6D570C62E94A</string>
+			<key>PayloadOrganization</key>
+			<string>Amsys Ltd</string>
+			<key>PayloadType</key>
+			<string>com.apple.MCX.FileVault2</string>
+			<key>PayloadUUID</key>
+			<string>529BF039-86BE-4314-859C-6D570C62E94A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>UseKeychain</key>
+			<false/>
+			<key>UseRecoveryKey</key>
+			<true/>
+			<key>UserEntersMissingInfo</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Will enable FV2 encryption at logout with minimum other lock-outs</string>
+	<key>PayloadDisplayName</key>
+	<string>Enable FileVault 2 Encryption</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>6587926D-A792-414B-837D-2F6CBDD26E76</string>
+	<key>PayloadOrganization</key>
+	<string>Amsys</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6587926D-A792-414B-837D-2F6CBDD26E76</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
