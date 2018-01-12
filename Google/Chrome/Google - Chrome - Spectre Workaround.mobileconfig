@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.google.Chrome</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>SitePerProcess</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.dcf1c1ca-e514-400e-9159-4887dd46a6d1.alacarte.customsettings.13264be8-71f5-4b03-9ab8-6483eff65211</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>13264be8-71f5-4b03-9ab8-6483eff65211</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>This profile with force the 'site isolation' feature in Google Chrome, to combat the Spectre Vulnerability.
+	For more details see: https://support.google.com/chrome/a/answer/7581529?hl=en </string>
+	<key>PayloadDisplayName</key>
+	<string>Google - Chrome - Spectre Workaround</string>
+	<key>PayloadIdentifier</key>
+	<string>uk.co.moof-it.Google.Chrome.SpectreWorkaround</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>dcf1c1ca-e514-400e-9159-4887dd46a6d1</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
