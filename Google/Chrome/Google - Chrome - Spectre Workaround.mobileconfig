@@ -34,8 +34,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>This profile with force the 'site isolation' feature in Google Chrome, to combat the Spectre Vulnerability.
-	For more details see: https://support.google.com/chrome/a/answer/7581529?hl=en </string>
+	<string>This profile with force the site isolation feature in Google Chrome to combat the Spectre Vulnerability. For more details see - https://support.google.com/chrome/a/answer/7581529?hl=en </string>
 	<key>PayloadDisplayName</key>
 	<string>Google - Chrome - Spectre Workaround</string>
 	<key>PayloadIdentifier</key>
