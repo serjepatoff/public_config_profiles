@@ -109,9 +109,9 @@ com.apple.driver.AppleBluetoothMultitouch.trackpad
 	<key>PayloadDisplayName</key>
 	<string>macOS - Enable "Right Click"</string>
 	<key>PayloadIdentifier</key>
-	<string>uk.co.amsys.profile.EnableRightClick</string>
+	<string>uk.co.moof-it.profile.EnableRightClick</string>
 	<key>PayloadOrganization</key>
-	<string></string>
+	<string>Moof IT</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>
