@@ -23,20 +23,15 @@
 				<array>
 					<string>*.local</string>
 					<string>169.254/16</string>
-					<string>[ADD FURTHER EXCEPTIONS HERE]</string>
 				</array>
 				<key>HTTPEnable</key>
 				<integer>1</integer>
 				<key>HTTPPort</key>
-				<integer>[ADD HTTP PROXY PORT HERE]</integer>
+				<integer>8888</integer>
 				<key>HTTPProxy</key>
-				<string>[ADD HTTP PROXY SERVER ADDRESS HERE]</string>
+				<string>172.16.214.52</string>
 				<key>HTTPSEnable</key>
-				<integer>1</integer>
-				<key>HTTPSPort</key>
-				<integer>[ADD HTTPS PROXY PORT HERE]</integer>
-				<key>HTTPSProxy</key>
-				<string>[ADD HTTPS PROXY SERVER ADDRESS HERE]</string>
+				<integer>0</integer>
 			</dict>
 		</dict>
 	</array>
